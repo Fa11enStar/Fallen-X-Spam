@@ -15,11 +15,22 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Fa11en/Fallen-X-Spam)
 
-<br>
-
 <details>
+  <summary> • Requirements 📝 • </summary>
+  
+  - Api Id
+  
+  - Api Hash
+  
+  - Bot Token (10)
+  
+  - Owner Id
+  
+  - Sudo Id
+  </details>
+  <details>
  
-  <summary> • 𝗖𝗿𝗲𝗱𝗶𝘁𝘀 • </summary>
+  <summary> • Credits • </summary>
   
 * Owner/Devloper- [ᵀᵉᵃᵐ『𝐒.𝐒』🇮🇳➤『𝙰𝚁𝙶』](https://t.me/ARG_GAMING_9300)
 
